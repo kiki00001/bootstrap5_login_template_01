@@ -1,6 +1,6 @@
 # bootstrap5 login template
 
-login form usgin bootstrap5!
+login form using bootstrap5!
 
 
 ## screen shot
